@@ -4,7 +4,7 @@
 ![tools](https://www.lexaloffle.com/gfx/p8_tracker.gif)
 ![code](https://www.lexaloffle.com/gfx/p8_cast.gif)
 
-A curated list of PICO-8 resources, tutorials, tools and more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,196 | 🐛 100 | 📅 2026-06-30 list thing. You might also like [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,551 | 🐛 47 | 📅 2024-08-11 and [awesome-love2d](https://github.com/JanWerder/awesome-love2d) ⭐ 4,467 | 🐛 2 | 🌐 PowerShell | 📅 2026-06-18.
+A curated list of PICO-8 resources, tutorials, tools and more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,649 | 🐛 100 | 📅 2026-06-30 list thing. You might also like [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,552 | 🐛 47 | 📅 2024-08-11 and [awesome-love2d](https://github.com/JanWerder/awesome-love2d) ⭐ 4,468 | 🐛 2 | 🌐 PowerShell | 📅 2026-06-18.
 
 PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. When you turn it on, the machine greets you with a shell for typing in a subset of [Lua](https://www.lua.org/) commands and provides simple built-in tools for creating your own cartridges.
 
@@ -64,7 +64,7 @@ PICO-8 is a fantasy console for making, sharing and playing tiny games and other
 
 ### Tutorials
 
-* [Token optimization](https://github.com/seleb/PICO-8-Token-Optimizations) ⭐ 158 | 🐛 0 | 📅 2021-08-06 - tips\&tricks for saving tokens.
+* [Token optimization](https://github.com/seleb/PICO-8-Token-Optimizations) ⭐ 159 | 🐛 0 | 📅 2021-08-06 - tips\&tricks for saving tokens.
 * [Newgrounds Medals Tutorial](https://github.com/Bigaston/pico-8-newgrounds-tutorial) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2018-07-23 - a little tutorial to add Newgrounds Medals to PICO-8 games.
 * [Music Tracker Tutorial Series](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg) - Making audio with PICO-8.
 * [Tron Lightcycle game from scratch](https://youtu.be/ZuaLuMhwcc8) - A quick introduction to PICO-8 writing a game from scratch.
@@ -184,4 +184,4 @@ See [LICENSE](LICENSE) for more information.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

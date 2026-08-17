@@ -14,7 +14,7 @@
             "last_commit": "2021-08-06T07:25:01Z",
             "owner": "seleb",
             "repo": "PICO-8-Token-Optimizations",
-            "stars": 158
+            "stars": 159
           }
         },
         {
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:03:54.076Z",
+    "last_updated": "2026-08-17T04:07:35.927Z",
     "original_repository": "pico-8/awesome-PICO-8",
     "original_repository_sha": "b241be1389db79d3ae83c9dafb0c3f2628e4aa64",
     "enhanced_repository": "enhansome/enhansome-PICO-8",
