@@ -73,7 +73,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-07T01:07:25Z",
+            "last_commit": "2026-08-17T04:49:41Z",
             "owner": "thisismypassport",
             "repo": "shrinko8",
             "stars": 176
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T04:07:35.927Z",
+    "last_updated": "2026-08-18T04:02:48.236Z",
     "original_repository": "pico-8/awesome-PICO-8",
     "original_repository_sha": "b241be1389db79d3ae83c9dafb0c3f2628e4aa64",
     "enhanced_repository": "enhansome/enhansome-PICO-8",
