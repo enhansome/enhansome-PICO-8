@@ -494,6 +494,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "p8keyboard.js",
+          "description": "Javascript \"keyboard adapter\" for the Pico-8. Send ASCII characters to a Pico-8 program running in a browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60479792,
+            "language": "HTML",
+            "last_commit": "2016-06-05T23:20:50Z",
+            "owner": "dppc",
+            "repo": "p8keyboard.js",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Hacks - undocumented PICO-8 features"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GameShell",
+          "description": "A modular handheld game console that allows you to play & modify retro games and DIY new devices. Check the GameShell Docs for how to run PICO-8 on the GameShell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 129795697,
+            "language": null,
+            "last_commit": "2021-08-15T05:33:04Z",
+            "owner": "clockworkpi",
+            "repo": "GameShellDocs",
+            "stars": 191
+          }
+        }
+      ],
+      "title": "Hardware"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "LIKO-12",
           "description": "An open source fantasy computer made using LÖVE with 96kb RAM.",
           "children": [],
@@ -542,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:10:40.682Z",
+    "last_updated": "2026-08-24T13:59:51.046Z",
     "original_repository": "pico-8/awesome-PICO-8",
     "original_repository_id": 44119302,
     "original_repository_sha": "b241be1389db79d3ae83c9dafb0c3f2628e4aa64",
