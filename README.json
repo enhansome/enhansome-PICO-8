@@ -584,9 +584,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:06:58.578Z",
-    "original_repository": "pico-8/awesome-PICO-8",
-    "original_repository_id": 44119302,
+    "last_updated": "2026-08-27T11:55:40.515Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 44119302,
+      "language": null,
+      "last_commit": "2026-07-28T13:25:56Z",
+      "owner": "pico-8",
+      "repo": "awesome-PICO-8",
+      "stars": 3070
+    },
     "original_repository_sha": "b241be1389db79d3ae83c9dafb0c3f2628e4aa64",
     "enhanced_repository": "enhansome/enhansome-PICO-8",
     "enhanced_repository_description": null,
