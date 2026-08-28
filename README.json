@@ -16,7 +16,8 @@
             "owner": "seleb",
             "repo": "PICO-8-Token-Optimizations",
             "stars": 159
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Bigaston",
             "repo": "pico-8-newgrounds-tutorial",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         }
       ],
       "title": "Tutorials"
@@ -52,7 +54,8 @@
             "owner": "dansanderson",
             "repo": "picotool",
             "stars": 406
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "torch2424",
             "repo": "picoDeploy",
             "stars": 233
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "thisismypassport",
             "repo": "shrinko8",
             "stars": 176
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "movAX13h",
             "repo": "P8Coder",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "BlueAmulet",
             "repo": "midi2pico",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "jspicl",
             "repo": "jspicl",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "andmatand",
             "repo": "midi-to-pico8",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "JoebRogers",
             "repo": "PICO-EC",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "josefnpat",
             "repo": "pico8utils",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "jozanza",
             "repo": "p8",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "tmountain",
             "repo": "pico-8-typescript",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "tducasse",
             "repo": "pico8-deploy",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "briacp",
             "repo": "pico2png",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "kikookoubis",
             "repo": "pico-8-carts-bash-downloader",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "benwiley4000",
             "repo": "pico8-responsive-webplayer-transform",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "TeamNoComplyGames",
             "repo": "pico8Grunt",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "franciscod",
             "repo": "p8dl",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "Enerccio",
             "repo": "yap8b",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         }
       ],
       "title": "Tools"
@@ -328,7 +348,8 @@
             "owner": "Liquidream",
             "repo": "scumm-8",
             "stars": 361
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "clowerweb",
             "repo": "Lib-Pico8",
             "stars": 198
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "JoebRogers",
             "repo": "PICO-Tween",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "outkine",
             "repo": "pico-kit",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "jamesedge",
             "repo": "pico8-physics",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "jozanza",
             "repo": "pico-test",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "adamscott",
             "repo": "pico8-missing-builtins",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         }
       ],
       "title": "Libraries"
@@ -439,7 +466,8 @@
             "owner": "japhib",
             "repo": "pico8-ls",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "justinj",
             "repo": "vim-pico8-syntax",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "ahai64",
             "repo": "pico8-definitions",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -484,7 +514,8 @@
             "owner": "Kaali",
             "repo": "pico8-mode",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         }
       ],
       "title": "Text Editors Language Support"
@@ -505,7 +536,8 @@
             "owner": "dppc",
             "repo": "p8keyboard.js",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         }
       ],
       "title": "Hacks - undocumented PICO-8 features"
@@ -526,7 +558,8 @@
             "owner": "clockworkpi",
             "repo": "GameShellDocs",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         }
       ],
       "title": "Hardware"
@@ -547,7 +580,8 @@
             "owner": "LIKO-12",
             "repo": "LIKO-12",
             "stars": 1179
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -562,7 +596,8 @@
             "owner": "picolove",
             "repo": "picolove",
             "stars": 889
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         },
         {
           "node_type": "item",
@@ -577,14 +612,15 @@
             "owner": "PikuseruConsole",
             "repo": "pikuseru",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T15:29:33.300Z"
         }
       ],
       "title": "Clones"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:20:09.813Z",
+    "last_updated": "2026-08-28T15:29:33.300Z",
     "original_repository_info": {
       "archived": false,
       "id": 44119302,
