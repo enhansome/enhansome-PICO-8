@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of general purpose tricks and techniques for saving tokens in PICO-8.",
+            "homepage": null,
             "id": 69310820,
             "language": null,
+            "license": null,
             "last_commit": "2021-08-06T07:25:01Z",
+            "open_issues": 0,
             "owner": "seleb",
             "repo": "PICO-8-Token-Optimizations",
-            "stars": 159
+            "stars": 159,
+            "topics": [
+              "optimization-methods",
+              "pico-8"
+            ]
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -26,12 +34,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A little tutorial to use the Newgrounds medals system with PICO-8",
+            "homepage": null,
             "id": 139716077,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-07-23T21:00:04Z",
+            "open_issues": 0,
             "owner": "Bigaston",
             "repo": "pico-8-newgrounds-tutorial",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "javascript-api",
+              "newgrounds",
+              "newgrounds-medals",
+              "pico-8"
+            ]
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         }
@@ -48,12 +66,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools and Python libraries for manipulating Pico-8 game files. http://www.lexaloffle.com/pico-8.php",
+            "homepage": null,
             "id": 43388836,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-03T01:04:26Z",
+            "open_issues": 55,
             "owner": "dansanderson",
             "repo": "picotool",
-            "stars": 406
+            "stars": 406,
+            "topics": [
+              "lua",
+              "pico-8"
+            ]
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -64,12 +90,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Deploy Pico-8 Carts as Standalone Applications on Desktop 🖥️(Electron) and Mobile 📱(Ionic) 📦👾",
+            "homepage": null,
             "id": 104112058,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-03-25T18:24:01Z",
+            "open_issues": 12,
             "owner": "torch2424",
             "repo": "picoDeploy",
-            "stars": 233
+            "stars": 233,
+            "topics": [
+              "android",
+              "desktop",
+              "electron-builder",
+              "fantasy-console",
+              "game",
+              "greenworks",
+              "ionic",
+              "javascript",
+              "mobile",
+              "pico-8",
+              "steam",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -80,12 +124,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shrink (minify) Pico-8 (& Picotron) carts, as well as other tools (e.g. linting, format conversion, exports)",
+            "homepage": "https://thisismypassport.github.io/shrinko8/",
             "id": 516544477,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-08-17T04:49:41Z",
+            "open_issues": 9,
             "owner": "thisismypassport",
             "repo": "shrinko8",
-            "stars": 176
+            "stars": 176,
+            "topics": [
+              "lint",
+              "minify",
+              "pico-8",
+              "picotron"
+            ]
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -96,12 +150,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.",
+            "homepage": null,
             "id": 72016429,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2025-07-22T22:59:35Z",
+            "open_issues": 3,
             "owner": "movAX13h",
             "repo": "P8Coder",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "csharp",
+              "editor",
+              "pico-8",
+              "pico8",
+              "programmer-tool",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -112,12 +178,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Midi to PICO-8 converter",
+            "homepage": null,
             "id": 66889341,
             "language": "Lua",
+            "license": null,
             "last_commit": "2020-01-17T08:05:20Z",
+            "open_issues": 1,
             "owner": "BlueAmulet",
             "repo": "midi2pico",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "lua",
+              "midi",
+              "pico-8",
+              "pico8"
+            ]
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -128,12 +204,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Javascript to PICO-8 Lua transpiler",
+            "homepage": "https://jspicl.github.io",
             "id": 87397966,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-11T07:57:13Z",
+            "open_issues": 3,
             "owner": "jspicl",
             "repo": "jspicl",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "ast",
+              "esprima",
+              "javascript",
+              "jspicl",
+              "lua",
+              "pico-8",
+              "transpiler"
+            ]
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -144,12 +233,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 66683076,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-10-21T22:21:16Z",
+            "open_issues": 2,
             "owner": "andmatand",
             "repo": "midi-to-pico8",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "midi",
+              "pico-8"
+            ]
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -160,12 +257,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny scene-entity-component library created for the PICO-8 fantasty console.",
+            "homepage": "https://joebrogers.com/Libraries/PICO-EC/API/1.0/",
             "id": 127318728,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2019-01-05T02:39:45Z",
+            "open_issues": 0,
             "owner": "JoebRogers",
             "repo": "PICO-EC",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "game",
+              "game-2d",
+              "game-dev",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "games",
+              "lua",
+              "lua-library",
+              "pico-8",
+              "pico8"
+            ]
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -176,12 +290,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PICO-8 UTILS",
+            "homepage": null,
             "id": 44285092,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2018-08-22T20:55:05Z",
+            "open_issues": 1,
             "owner": "josefnpat",
             "repo": "pico8utils",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -192,12 +311,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👾  PICO-8 dependency manager",
+            "homepage": "https://www.npmjs.com/package/p8",
             "id": 65860228,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-03-06T03:18:52Z",
+            "open_issues": 6,
             "owner": "jozanza",
             "repo": "p8",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "pico-8"
+            ]
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -208,12 +334,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create PICO-8 games in TypeScript",
+            "homepage": null,
             "id": 501412257,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-12-17T14:14:10Z",
+            "open_issues": 0,
             "owner": "tmountain",
             "repo": "pico-8-typescript",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -224,12 +355,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An easy way to export and deploy PICO-8 projects to itch.io",
+            "homepage": null,
             "id": 372231175,
             "language": "Makefile",
+            "license": "MIT",
             "last_commit": "2022-03-04T14:31:18Z",
+            "open_issues": 0,
             "owner": "tducasse",
             "repo": "pico8-deploy",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "build",
+              "deploy",
+              "gamedev",
+              "itchio",
+              "makefile",
+              "pico-8"
+            ]
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -240,12 +383,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Converts Pico8 graphics from/to PNG",
+            "homepage": null,
             "id": 43352606,
             "language": "Perl",
+            "license": "GPL-2.0",
             "last_commit": "2020-04-10T21:46:46Z",
+            "open_issues": 1,
             "owner": "briacp",
             "repo": "pico2png",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -256,12 +404,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Download & automatically rename Pico-8 carts from the Lexaloffle BBS threads",
+            "homepage": null,
             "id": 85956547,
             "language": "Shell",
+            "license": null,
             "last_commit": "2017-03-24T15:03:55Z",
+            "open_issues": 2,
             "owner": "kikookoubis",
             "repo": "pico-8-carts-bash-downloader",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -272,12 +425,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🕹 Responsive post-processing for #pico8 web player",
+            "homepage": null,
             "id": 55062639,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-10-23T18:48:29Z",
+            "open_issues": 0,
             "owner": "benwiley4000",
             "repo": "pico8-responsive-webplayer-transform",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "games",
+              "pico8",
+              "python",
+              "responsive",
+              "responsive-design",
+              "responsive-layout"
+            ]
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -288,12 +453,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A build system for pico8 games, using gruntjs",
+            "homepage": null,
             "id": 80809507,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2018-01-15T08:41:32Z",
+            "open_issues": 0,
             "owner": "TeamNoComplyGames",
             "repo": "pico8Grunt",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -304,12 +474,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PICO-8 cartridge downloader",
+            "homepage": null,
             "id": 46463854,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2017-09-26T15:03:29Z",
+            "open_issues": 1,
             "owner": "franciscod",
             "repo": "p8dl",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -320,12 +495,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another Pico 8 builder is a builder tool for making Pico 8 carts easier. ",
+            "homepage": null,
             "id": 380992480,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2021-07-04T19:55:01Z",
+            "open_issues": 0,
             "owner": "Enerccio",
             "repo": "yap8b",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         }
@@ -342,12 +522,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PICO-8 demake of the SCUMM engine that powered most of the classic LucasArts adventure games, such as Monkey Island and Maniac Mansion.",
+            "homepage": null,
             "id": 84343934,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-08-11T18:41:43Z",
+            "open_issues": 2,
             "owner": "Liquidream",
             "repo": "scumm-8",
-            "stars": 361
+            "stars": 361,
+            "topics": [
+              "pico-8",
+              "pico8",
+              "point-and-click",
+              "scumm"
+            ]
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -358,12 +548,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Pico-8 library of useful common functions.",
+            "homepage": null,
             "id": 55974342,
             "language": "Lua",
+            "license": "Unlicense",
             "last_commit": "2020-02-09T16:20:18Z",
+            "open_issues": 1,
             "owner": "clowerweb",
             "repo": "Lib-Pico8",
-            "stars": 198
+            "stars": 198,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -374,12 +569,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small library of tweening/easing functions for use in the PICO-8 fantasy console, inspired by Robert Penner's easing functions.",
+            "homepage": null,
             "id": 127534323,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2020-03-25T05:11:32Z",
+            "open_issues": 0,
             "owner": "JoebRogers",
             "repo": "PICO-Tween",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "easing",
+              "easing-functions",
+              "easings",
+              "game",
+              "game-2d",
+              "game-dev",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "games",
+              "lua",
+              "lua-library",
+              "pico-8",
+              "pico8",
+              "tween",
+              "tweening"
+            ]
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -390,12 +607,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":triangular_ruler: An opinionated set of Pico-8 helpers",
+            "homepage": null,
             "id": 124132419,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2019-04-29T19:50:33Z",
+            "open_issues": 0,
             "owner": "outkine",
             "repo": "pico-kit",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -406,12 +628,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Physics library for Pico8",
+            "homepage": null,
             "id": 247750347,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2020-04-04T16:20:54Z",
+            "open_issues": 0,
             "owner": "jamesedge",
             "repo": "pico8-physics",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -422,12 +649,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡ PICO-8 testing framework",
+            "homepage": null,
             "id": 60090554,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-19T01:32:07Z",
+            "open_issues": 2,
             "owner": "jozanza",
             "repo": "pico-test",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "cart",
+              "pico-8",
+              "pico-test"
+            ]
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -438,12 +674,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides Lua built-in functions to pico8.",
+            "homepage": null,
             "id": 59247829,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2019-03-23T20:23:55Z",
+            "open_issues": 1,
             "owner": "adamscott",
             "repo": "pico8-missing-builtins",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         }
@@ -460,12 +701,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PICO-8 Language Server",
+            "homepage": null,
             "id": 450599160,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-31T22:15:39Z",
+            "open_issues": 26,
             "owner": "japhib",
             "repo": "pico8-ls",
-            "stars": 112
+            "stars": 112,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -476,12 +722,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Syntax file for Pico-8",
+            "homepage": null,
             "id": 40326906,
             "language": "VimL",
+            "license": null,
             "last_commit": "2017-09-17T16:19:26Z",
+            "open_issues": 5,
             "owner": "justinj",
             "repo": "vim-pico8-syntax",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -492,12 +743,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Lua language server add-on for writing PICO-8 code in an external editor",
+            "homepage": null,
             "id": 878935387,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-11-12T13:07:38Z",
+            "open_issues": 0,
             "owner": "ahai64",
             "repo": "pico8-definitions",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "game",
+              "game-development",
+              "gamedev",
+              "lua",
+              "pico8",
+              "picotron",
+              "vscode",
+              "vscode-extension",
+              "vscode-snippets"
+            ]
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -508,12 +774,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PICO-8 mode for Emacs",
+            "homepage": null,
             "id": 121932146,
             "language": "Emacs Lisp",
+            "license": null,
             "last_commit": "2023-10-19T03:28:57Z",
+            "open_issues": 7,
             "owner": "Kaali",
             "repo": "pico8-mode",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         }
@@ -530,12 +801,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Javascript \"keyboard adapter\" for the Pico-8",
+            "homepage": null,
             "id": 60479792,
             "language": "HTML",
+            "license": null,
             "last_commit": "2016-06-05T23:20:50Z",
+            "open_issues": 0,
             "owner": "dppc",
             "repo": "p8keyboard.js",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         }
@@ -552,12 +828,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GameShell Documents",
+            "homepage": null,
             "id": 129795697,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2021-08-15T05:33:04Z",
+            "open_issues": 5,
             "owner": "clockworkpi",
             "repo": "GameShellDocs",
-            "stars": 191
+            "stars": 191,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         }
@@ -574,12 +855,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "LIKO-12 is an open source fantasy computer made using LÖVE",
+            "homepage": "https://liko-12.github.io/",
             "id": 68394197,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2024-01-24T08:13:23Z",
+            "open_issues": 38,
             "owner": "LIKO-12",
             "repo": "LIKO-12",
-            "stars": 1179
+            "stars": 1179,
+            "topics": [
+              "android",
+              "fantasy-computer",
+              "fantasy-console",
+              "liko-12",
+              "linux",
+              "love",
+              "love2d",
+              "love2d-framework",
+              "lua",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -590,12 +887,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PICO-8 Reimplementation in Love2D. Chat: https://discord.gg/jGEMUse6RM",
+            "homepage": null,
             "id": 42175424,
             "language": "Lua",
+            "license": "Zlib",
             "last_commit": "2024-10-24T13:50:25Z",
+            "open_issues": 17,
             "owner": "picolove",
             "repo": "picolove",
-            "stars": 889
+            "stars": 889,
+            "topics": [
+              "android",
+              "emulator",
+              "fantasy-console",
+              "linux",
+              "love2d",
+              "lua",
+              "luajit",
+              "osx",
+              "pico-8",
+              "pico8",
+              "virtual-console",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         },
@@ -606,12 +921,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Fantasy Console in pure Rust [Core]",
+            "homepage": null,
             "id": 604048106,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-12-07T08:03:04Z",
+            "open_issues": 0,
             "owner": "PikuseruConsole",
             "repo": "pikuseru",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "python",
+              "rhai",
+              "rust",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
         }
@@ -620,15 +945,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:29:33.300Z",
+    "last_updated": "2026-08-29T04:19:54.241Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome PICO-8 resources, carts, tools and more",
+      "homepage": "https://pico-8.github.io/awesome-PICO-8/",
       "id": 44119302,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-28T13:25:56Z",
+      "open_issues": 0,
       "owner": "pico-8",
       "repo": "awesome-PICO-8",
-      "stars": 3070
+      "stars": 3070,
+      "topics": [
+        "8-bit-computer",
+        "8bit",
+        "awesome",
+        "awesome-list",
+        "cartridge",
+        "fantasy-console",
+        "game-development",
+        "game-engine",
+        "gamedev",
+        "list",
+        "lua",
+        "pico-8",
+        "pico8"
+      ]
     },
     "original_repository_sha": "b241be1389db79d3ae83c9dafb0c3f2628e4aa64",
     "enhanced_repository": "enhansome/enhansome-PICO-8",
