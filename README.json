@@ -658,7 +658,7 @@
             "open_issues": 2,
             "owner": "jozanza",
             "repo": "pico-test",
-            "stars": 45,
+            "stars": 46,
             "topics": [
               "cart",
               "pico-8",
@@ -707,7 +707,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-31T22:15:39Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "japhib",
             "repo": "pico8-ls",
             "stars": 112,
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T07:59:12.237Z",
+    "last_updated": "2026-09-07T08:27:51.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PICO-8 resources, carts, tools and more",
@@ -957,7 +957,7 @@
       "open_issues": 0,
       "owner": "pico-8",
       "repo": "awesome-PICO-8",
-      "stars": 3070,
+      "stars": 3072,
       "topics": [
         "8-bit-computer",
         "8bit",
