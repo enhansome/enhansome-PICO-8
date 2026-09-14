@@ -75,7 +75,7 @@
             "open_issues": 55,
             "owner": "dansanderson",
             "repo": "picotool",
-            "stars": 406,
+            "stars": 407,
             "topics": [
               "lua",
               "pico-8"
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T08:24:58.284Z",
+    "last_updated": "2026-09-14T09:04:41.002Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PICO-8 resources, carts, tools and more",
