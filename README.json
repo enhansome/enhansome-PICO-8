@@ -133,7 +133,7 @@
             "open_issues": 9,
             "owner": "thisismypassport",
             "repo": "shrinko8",
-            "stars": 176,
+            "stars": 177,
             "topics": [
               "lint",
               "minify",
@@ -706,8 +706,8 @@
             "id": 450599160,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-07-31T22:15:39Z",
-            "open_issues": 27,
+            "last_commit": "2026-09-14T22:24:46Z",
+            "open_issues": 28,
             "owner": "japhib",
             "repo": "pico8-ls",
             "stars": 112,
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T09:04:41.002Z",
+    "last_updated": "2026-09-15T08:47:54.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PICO-8 resources, carts, tools and more",
@@ -957,7 +957,7 @@
       "open_issues": 0,
       "owner": "pico-8",
       "repo": "awesome-PICO-8",
-      "stars": 3072,
+      "stars": 3073,
       "topics": [
         "8-bit-computer",
         "8bit",

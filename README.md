@@ -4,7 +4,7 @@
 ![tools](https://www.lexaloffle.com/gfx/p8_tracker.gif)
 ![code](https://www.lexaloffle.com/gfx/p8_cast.gif)
 
-A curated list of PICO-8 resources, tutorials, tools and more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,887 | 🐛 106 | 📅 2026-09-02 list thing. You might also like [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,570 | 🐛 50 | 📅 2024-08-11 and [awesome-love2d](https://github.com/JanWerder/awesome-love2d) ⭐ 4,494 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-23.
+A curated list of PICO-8 resources, tutorials, tools and more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 506,180 | 🐛 106 | 📅 2026-09-02 list thing. You might also like [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,571 | 🐛 50 | 📅 2024-08-11 and [awesome-love2d](https://github.com/JanWerder/awesome-love2d) ⭐ 4,494 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-23.
 
 PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. When you turn it on, the machine greets you with a shell for typing in a subset of [Lua](https://www.lua.org/) commands and provides simple built-in tools for creating your own cartridges.
 
@@ -78,7 +78,7 @@ PICO-8 is a fantasy console for making, sharing and playing tiny games and other
 
 * [picotool](https://github.com/dansanderson/picotool) ⭐ 407 | 🐛 55 | 🌐 Python | 📅 2024-02-03 -  Tools and Python libraries for manipulating Pico-8 game files.
 * [picoDeploy](https://github.com/torch2424/picoDeploy) ⚠️ Archived - Deploy Pico-8 carts as standalone applications on desktop (Electron) and mobile (Ionic).
-* [Shrinko8](https://github.com/thisismypassport/shrinko8) ⭐ 176 | 🐛 9 | 🌐 Lua | 📅 2026-08-17 - A minifier that aggressively shrinks Pico-8 code size. Also includes a linter and other tools.
+* [Shrinko8](https://github.com/thisismypassport/shrinko8) ⭐ 177 | 🐛 9 | 🌐 Lua | 📅 2026-08-17 - A minifier that aggressively shrinks Pico-8 code size. Also includes a linter and other tools.
 * [P8Coder](https://github.com/movAX13h/P8Coder) ⭐ 111 | 🐛 3 | 🌐 C# | 📅 2025-07-22 - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
 * [midi2pico](https://github.com/gamax92/midi2pico) ⭐ 70 | 🐛 1 | 🌐 Lua | 📅 2020-01-17 - A MIDI to PICO-8 converter.
 * [jspicl](https://github.com/jspicl/jspicl) ⭐ 70 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-11 - Write PICO-8 games in JavaScript or TypeScript, with live reloading so you can see your changes instantly!
@@ -122,7 +122,7 @@ PICO-8 is a fantasy console for making, sharing and playing tiny games and other
 
 ### Text Editors Language Support
 
-* Visual Studio Code: [pico8-ls](https://github.com/japhib/pico8-ls) ⭐ 112 | 🐛 27 | 🌐 TypeScript | 📅 2026-07-31 - PICO-8 Language Server, providing full language support for the PICO-8 dialect of Lua.
+* Visual Studio Code: [pico8-ls](https://github.com/japhib/pico8-ls) ⭐ 112 | 🐛 28 | 🌐 TypeScript | 📅 2026-09-14 - PICO-8 Language Server, providing full language support for the PICO-8 dialect of Lua.
 * Vim: [vim-pico8-syntax](https://github.com/justinj/vim-pico8-syntax) ⭐ 65 | 🐛 5 | 🌐 VimL | 📅 2017-09-17
 * Visual Studio Code / NeoVim / JetBrains / Others： [pico8-definitions](https://github.com/ahai64/pico8-definitions) ⭐ 35 | 🐛 0 | 🌐 Lua | 📅 2025-11-12 - An add-on for sumneko/lua to provide PICO-8 language support.
 * Emacs: [pico8-mode](https://github.com/Kaali/pico8-mode) ⭐ 33 | 🐛 7 | 🌐 Emacs Lisp | 📅 2023-10-19
@@ -184,4 +184,4 @@ See [LICENSE](LICENSE) for more information.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
