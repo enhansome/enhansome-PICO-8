@@ -658,7 +658,7 @@
             "open_issues": 2,
             "owner": "jozanza",
             "repo": "pico-test",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "cart",
               "pico-8",
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T08:21:34.888Z",
+    "last_updated": "2026-09-19T08:09:32.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PICO-8 resources, carts, tools and more",
