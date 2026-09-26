@@ -707,7 +707,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-14T22:24:46Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "japhib",
             "repo": "pico8-ls",
             "stars": 112,
@@ -864,7 +864,7 @@
             "open_issues": 38,
             "owner": "LIKO-12",
             "repo": "LIKO-12",
-            "stars": 1179,
+            "stars": 1180,
             "topics": [
               "android",
               "fantasy-computer",
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T08:56:16.375Z",
+    "last_updated": "2026-09-26T08:42:52.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PICO-8 resources, carts, tools and more",
@@ -957,7 +957,7 @@
       "open_issues": 0,
       "owner": "pico-8",
       "repo": "awesome-PICO-8",
-      "stars": 3079,
+      "stars": 3080,
       "topics": [
         "8-bit-computer",
         "8bit",
