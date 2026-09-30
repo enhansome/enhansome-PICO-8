@@ -578,7 +578,7 @@
             "open_issues": 0,
             "owner": "JoebRogers",
             "repo": "PICO-Tween",
-            "stars": 95,
+            "stars": 96,
             "topics": [
               "easing",
               "easing-functions",
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T09:58:04.093Z",
+    "last_updated": "2026-09-30T09:49:47.715Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PICO-8 resources, carts, tools and more",
