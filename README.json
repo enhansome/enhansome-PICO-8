@@ -129,7 +129,7 @@
             "id": 516544477,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-08-17T04:49:41Z",
+            "last_commit": "2026-10-02T20:40:16Z",
             "open_issues": 9,
             "owner": "thisismypassport",
             "repo": "shrinko8",
@@ -718,7 +718,7 @@
         {
           "node_type": "item",
           "title": "Vim: vim-pico8-syntax",
-          "description": null,
+          "description": "justinj/vim-pico8-syntax",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -770,7 +770,7 @@
         {
           "node_type": "item",
           "title": "Emacs: pico8-mode",
-          "description": null,
+          "description": "Kaali/pico8-mode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -864,7 +864,7 @@
             "open_issues": 38,
             "owner": "LIKO-12",
             "repo": "LIKO-12",
-            "stars": 1180,
+            "stars": 1181,
             "topics": [
               "android",
               "fantasy-computer",
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:54:42.325Z",
+    "last_updated": "2026-10-03T04:30:53.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PICO-8 resources, carts, tools and more",
@@ -957,7 +957,7 @@
       "open_issues": 0,
       "owner": "pico-8",
       "repo": "awesome-PICO-8",
-      "stars": 3080,
+      "stars": 3082,
       "topics": [
         "8-bit-computer",
         "8bit",
