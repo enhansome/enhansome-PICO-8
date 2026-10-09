@@ -864,7 +864,7 @@
             "open_issues": 38,
             "owner": "LIKO-12",
             "repo": "LIKO-12",
-            "stars": 1181,
+            "stars": 1182,
             "topics": [
               "android",
               "fantasy-computer",
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T10:44:38.150Z",
+    "last_updated": "2026-10-09T10:43:29.748Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PICO-8 resources, carts, tools and more",
@@ -957,7 +957,7 @@
       "open_issues": 0,
       "owner": "pico-8",
       "repo": "awesome-PICO-8",
-      "stars": 3083,
+      "stars": 3084,
       "topics": [
         "8-bit-computer",
         "8bit",
