@@ -129,7 +129,7 @@
             "id": 516544477,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-02T20:40:16Z",
+            "last_commit": "2026-10-10T11:54:08Z",
             "open_issues": 9,
             "owner": "thisismypassport",
             "repo": "shrinko8",
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T09:59:17.413Z",
+    "last_updated": "2026-10-11T10:08:58.778Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PICO-8 resources, carts, tools and more",
