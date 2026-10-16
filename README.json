@@ -133,7 +133,7 @@
             "open_issues": 9,
             "owner": "thisismypassport",
             "repo": "shrinko8",
-            "stars": 177,
+            "stars": 178,
             "topics": [
               "lint",
               "minify",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T08:26:09.771Z",
+    "last_updated": "2026-10-16T08:18:57.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PICO-8 resources, carts, tools and more",
