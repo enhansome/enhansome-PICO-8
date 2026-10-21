@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T08:41:47.848Z",
+    "last_updated": "2026-10-21T08:42:34.753Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PICO-8 resources, carts, tools and more",
@@ -956,7 +956,7 @@
       "open_issues": 0,
       "owner": "pico-8",
       "repo": "awesome-PICO-8",
-      "stars": 3083,
+      "stars": 3085,
       "topics": [
         "8-bit-computer",
         "8bit",
