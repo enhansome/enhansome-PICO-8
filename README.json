@@ -929,7 +929,7 @@
             "open_issues": 0,
             "owner": "PikuseruConsole",
             "repo": "pikuseru",
-            "stars": 117,
+            "stars": 118,
             "topics": [
               "python",
               "rhai",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T08:42:34.753Z",
+    "last_updated": "2026-10-22T08:44:54.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PICO-8 resources, carts, tools and more",
