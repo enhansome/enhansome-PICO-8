@@ -706,8 +706,8 @@
             "id": 450599160,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T22:24:46Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-29T13:46:48Z",
+            "open_issues": 21,
             "owner": "japhib",
             "repo": "pico8-ls",
             "stars": 112,
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T10:11:08.022Z",
+    "last_updated": "2026-10-30T10:13:38.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PICO-8 resources, carts, tools and more",
