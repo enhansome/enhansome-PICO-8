@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T10:13:38.430Z",
+    "last_updated": "2026-10-31T09:48:18.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PICO-8 resources, carts, tools and more",
@@ -953,7 +953,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-07-28T13:25:56Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "pico-8",
       "repo": "awesome-PICO-8",
       "stars": 3088,
