@@ -343,7 +343,7 @@
             "open_issues": 0,
             "owner": "tmountain",
             "repo": "pico-8-typescript",
-            "stars": 48,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:33.300Z"
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T09:48:18.485Z",
+    "last_updated": "2026-11-01T10:38:11.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PICO-8 resources, carts, tools and more",
