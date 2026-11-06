@@ -130,7 +130,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-10-29T06:02:05Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "thisismypassport",
             "repo": "shrinko8",
             "stars": 180,
@@ -707,7 +707,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-29T13:46:48Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "japhib",
             "repo": "pico8-ls",
             "stars": 112,
@@ -895,7 +895,7 @@
             "open_issues": 17,
             "owner": "picolove",
             "repo": "picolove",
-            "stars": 892,
+            "stars": 891,
             "topics": [
               "android",
               "emulator",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T11:10:50.798Z",
+    "last_updated": "2026-11-06T11:08:49.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PICO-8 resources, carts, tools and more",
