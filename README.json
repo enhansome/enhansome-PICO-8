@@ -133,7 +133,7 @@
             "open_issues": 9,
             "owner": "thisismypassport",
             "repo": "shrinko8",
-            "stars": 181,
+            "stars": 180,
             "topics": [
               "lint",
               "minify",
@@ -895,7 +895,7 @@
             "open_issues": 17,
             "owner": "picolove",
             "repo": "picolove",
-            "stars": 891,
+            "stars": 890,
             "topics": [
               "android",
               "emulator",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T10:39:59.981Z",
+    "last_updated": "2026-11-15T11:13:56.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PICO-8 resources, carts, tools and more",
