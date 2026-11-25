@@ -129,7 +129,7 @@
             "id": 516544477,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-11-07T09:55:30Z",
+            "last_commit": "2026-11-25T05:28:22Z",
             "open_issues": 9,
             "owner": "thisismypassport",
             "repo": "shrinko8",
@@ -895,7 +895,7 @@
             "open_issues": 17,
             "owner": "picolove",
             "repo": "picolove",
-            "stars": 891,
+            "stars": 892,
             "topics": [
               "android",
               "emulator",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T13:57:31.725Z",
+    "last_updated": "2026-11-25T13:11:55.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PICO-8 resources, carts, tools and more",
