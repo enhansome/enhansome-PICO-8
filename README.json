@@ -895,7 +895,7 @@
             "open_issues": 17,
             "owner": "picolove",
             "repo": "picolove",
-            "stars": 892,
+            "stars": 893,
             "topics": [
               "android",
               "emulator",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T12:45:53.439Z",
+    "last_updated": "2026-11-28T11:59:24.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PICO-8 resources, carts, tools and more",
